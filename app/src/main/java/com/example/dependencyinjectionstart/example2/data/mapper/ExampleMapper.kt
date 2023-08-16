@@ -1,4 +1,4 @@
-package com.example.dependencyinjectionstart.example2.data
+package com.example.dependencyinjectionstart.example2.data.mapper
 
 import javax.inject.Inject
 
